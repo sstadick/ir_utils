@@ -1,0 +1,13 @@
+[project]
+authors = ["Seth Stadick <sstadick@gmail.com>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+description = "Add a short description here"
+name = "ir_utils"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+pkg = "magic run mojo package -o dump_ir.mojopkg ir_utils"
+
+[dependencies]
+max = ">=24.6.0,<25"
