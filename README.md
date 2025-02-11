@@ -1,6 +1,6 @@
 # ir\_utils
 
-Package version of [this](https://forum.modular.com/t/seeing-the-mlir-llvm-or-asm-code-generated-by-mojo/250/5?u=duck_tape) from @sora.
+Package version of [this](https://forum.modular.com/t/seeing-the-mlir-llvm-or-asm-code-generated-by-mojo/250/5?u=duck_tape) from @soraros.
 Linked [gist](https://gist.github.com/soraros/44d56698cb20a6c5db3160f13ca81675)
 
 ## Usage
